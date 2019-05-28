@@ -140,6 +140,6 @@ new Vue({
 - Vue-Izitoast Issues: https://github.com/arthurvasconcelos/vue-izitoast/issues
 - IziToast Issues: https://github.com/dolce/iziToast/issues
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![Greenkeeper badge](https://badges.greenkeeper.io/arthurvasconcelos/vue-izitoast.svg)](https://greenkeeper.io/)
 
 ![Live Long and Prosper](http://i.imgur.com/wtGmSKO.png)
